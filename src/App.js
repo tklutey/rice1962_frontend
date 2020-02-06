@@ -2,7 +2,7 @@ import React from 'react';
 import {PianoContainer} from "./containers/PianoContainer";
 import './App.css';
 import { LessonHeader } from './components/LessonHeader'
-import {Staging} from './containers/StageArea';
+import {Staging} from './containers/StagingAreaFeed';
 
 function App() {
   const headerText = "Welcome to the Lesson"

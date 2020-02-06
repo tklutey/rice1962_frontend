@@ -1,6 +1,5 @@
-.lesson-container {
+.stage-area{
     display: flex;
     flex-direction: column;
-    height: 500px;
+    align-items: center;
 }
-
